@@ -7,7 +7,7 @@ Got my avatar designed from Ready Player me
 For 3d animations used mixamo and blender for designing
 
 Installation
-Install my-project with npm
+Install React-Three  with yarn
 
   yarn install
   cd my-project
