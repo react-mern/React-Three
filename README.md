@@ -1,5 +1,5 @@
 React Three
-This project includes my 3d avatar on homepage, here the avatar isp rovided animation of standing,falling and typing with head follow,cursor follow and wireframe effects. When you go to product link, you can see 3d view of car.
+This project includes my 3d avatar on homepage, here the avatar is provided animation of standing,falling and typing with head follow,cursor follow and wireframe effects. When you go to product link, you can see 3d view of car.
 
 Appendix
 Got my avatar designed from Ready Player me
