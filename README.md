@@ -10,7 +10,7 @@ Installation
 Install React-Three  with yarn
 
   yarn install
-  cd my-project
+  cd React-Three
   yarn run dev
 Screenshots
 https://prnt.sc/6JzpMFfv23Ub https://prnt.sc/lfI2JoQ8vvaa https://prnt.sc/VgR42O8lhUUT
